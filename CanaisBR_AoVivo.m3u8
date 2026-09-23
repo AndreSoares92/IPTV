@@ -1454,9 +1454,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88562
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/273
 #EXTINF:-1 group-title="Esportes | Premiere",Premiere Clubes H265*
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/88561
-#EXTINF:0 group-title="Esportes | Premiere",Universal Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_SporTV_%282021%29.svg/500px-Logotipo_do_SporTV_%282021%29.svg.png" group-title="Esportes | SporTV",SporTV 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/131188.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_SporTV_%282021%29.svg/500px-Logotipo_do_SporTV_%282021%29.svg.png" group-title="Esportes | SporTV",SporTV FHD
@@ -2454,6 +2451,11 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/140509.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594017.ts
 #EXTINF:-1 group-title="Filmes e Séries | HBO & Max",MAX 6 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/130197.ts
+#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/13505.ts
+#EXTINF:0 group-title="Filmes e Séries | Geral",Universal Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Filmes e Séries | Geral",A&e FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/23156.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",A&e FHD
@@ -2574,8 +2576,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/90712.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/457
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Canal SONY SD [LEG]
 http://tjtor8411.com:80/Osiel123/Felicidade321/90711.ts
-#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/13505.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Curta 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103512.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Curta FHD
@@ -2960,6 +2960,9 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553669
 #EXTINF:0 group-title="Filmes e Séries | Geral",USA HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06k/index.m3u8
+#EXTINF:0 group-title="Filmes e Séries | Geral",Adult Swim HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="Documentários",Animal Planet FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/804
 #EXTINF:-1 group-title="Documentários",Animal Planet HD
@@ -2986,41 +2989,6 @@ http://45.185.11.126:8000/play/a0ac/index.m3u8
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/464
 #EXTINF:-1 group-title="Documentários",Discovery Channel H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/224
-#EXTINF:-1 group-title="Documentários",Discovery H&H FHD
-http://tjtor8411.com:80/Osiel123/Felicidade321/71867.ts
-#EXTINF:-1 group-title="Documentários",Discovery H&H FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/807
-#EXTINF:-1 group-title="Documentários",Discovery H&H HD
-http://tjtor8411.com:80/Osiel123/Felicidade321/71869.ts
-#EXTINF:-1 group-title="Documentários",Discovery H&H HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/14
-#EXTINF:-1 group-title="Documentários",Discovery H&H SD
-http://tjtor8411.com:80/Osiel123/Felicidade321/71870.ts
-#EXTINF:-1 group-title="Documentários",Discovery H&H SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/465
-#EXTINF:-1 group-title="Documentários",Discovery Kids 4K
-http://tjtor8411.com:80/Osiel123/Felicidade321/90250.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids FHD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/8742.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/824
-#EXTINF:-1 group-title="Documentários",Discovery Kids FHD H.265
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/125440.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids FHD [H265]
-http://tjtor8411.com:80/Osiel123/Felicidade321/71872.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/8743.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/15
-#EXTINF:0 group-title="Documentários",Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="Documentários",Discovery Kids HD ²
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/38018.ts
-#EXTINF:-1 group-title="Documentários",Discovery Kids SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/466
-#EXTINF:-1 group-title="Documentários",Discovery Kids H265
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/227
 #EXTINF:-1 group-title="Documentários",Discovery Science 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103511.ts
 #EXTINF:-1 group-title="Documentários",Discovery Science FHD
@@ -3061,8 +3029,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/71882.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76671
 #EXTINF:-1 group-title="Documentários",Discovery Theater H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/229
-#EXTINF:-1 group-title="Documentários",Discovery TLC HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/8754.ts
 #EXTINF:-1 group-title="Documentários",Discovery Turbo FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71883.ts
 #EXTINF:-1 group-title="Documentários",Discovery Turbo FHD
@@ -3183,6 +3149,29 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/501
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/257
 #EXTINF:-1 group-title="Documentários",TV Escola
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/589
+#EXTINF:-1 group-title="Infantis",Discovery Kids 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90250.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8742.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/824
+#EXTINF:-1 group-title="Infantis",Discovery Kids FHD H.265
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/125440.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71872.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8743.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/15
+#EXTINF:0 group-title="Infantis",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="Infantis",Discovery Kids HD ²
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/38018.ts
+#EXTINF:-1 group-title="Infantis",Discovery Kids SD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/466
+#EXTINF:-1 group-title="Infantis",Discovery Kids H265
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/227
 #EXTINF:-1 group-title="Infantis",Cartoonito FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/822
 #EXTINF:-1 group-title="Infantis",Cartoonito HD
@@ -3213,22 +3202,6 @@ http://45.185.11.126:8000/play/a087/index.m3u8
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/459
 #EXTINF:-1 group-title="Infantis",Cartoon Network
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13504.ts
-#EXTINF:-1 group-title="Infantis",Disney + 01 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169095.ts
-#EXTINF:-1 group-title="Infantis",Disney + 04 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169098.ts
-#EXTINF:-1 group-title="Infantis",Disney + 06 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169100.ts
-#EXTINF:-1 group-title="Infantis",Disney + 07 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169101.ts
-#EXTINF:-1 group-title="Infantis",Disney + 08 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169102.ts
-#EXTINF:-1 group-title="Infantis",Disney + 1 FHD
-http://tjtor8411.com:80/Osiel123/Felicidade321/142032.ts
-#EXTINF:-1 group-title="Infantis",Disney + 10 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169104.ts
-#EXTINF:-1 group-title="Infantis",Disney + 2 SD
-http://tjtor8411.com:80/Osiel123/Felicidade321/142035.ts
 #EXTINF:-1 group-title="Infantis",Gloob 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103498.ts
 #EXTINF:-1 group-title="Infantis",Gloob FHD
@@ -3302,6 +3275,36 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/571
 #EXTINF:0 group-title="Infantis",TV Ræ Tim Bum HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 01 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169095.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 04 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169098.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 06 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169100.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 07 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169101.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 08 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169102.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 1 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142032.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 10 HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169104.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png" group-title="Disney+",Disney + 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142035.ts
+#EXTINF:-1 group-title="Variedades",Discovery H&H FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71867.ts
+#EXTINF:-1 group-title="Variedades",Discovery H&H FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/807
+#EXTINF:-1 group-title="Variedades",Discovery H&H HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71869.ts
+#EXTINF:-1 group-title="Variedades",Discovery H&H HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/14
+#EXTINF:-1 group-title="Variedades",Discovery H&H SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71870.ts
+#EXTINF:-1 group-title="Variedades",Discovery H&H SD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/465
+#EXTINF:-1 group-title="Variedades",Discovery TLC HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8754.ts
 #EXTINF:-1 group-title="Variedades",Arte 1 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/67512.ts
 #EXTINF:-1 group-title="Variedades",Arte 1 FHD
@@ -3400,8 +3403,6 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/13
 http://45.185.11.126:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Variedades",HGTV H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/225
-#EXTINF:-1 group-title="Variedades",Icarly Revival
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169235.ts
 #EXTINF:-1 group-title="Variedades",Lifetime 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103492.ts
 #EXTINF:-1 group-title="Variedades",Lifetime FHD
@@ -3655,9 +3656,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/100422.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/100420.ts
 #EXTINF:-1 group-title="Canais | Outros e Regionais",TV Uniao Fortaleza SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/100424.ts
-#EXTINF:0 group-title="Adultos (+18)",Adult Swim HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a06m/index.m3u8
 #EXTINF:0 group-title="Adultos (+18)",Playboy TV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a09n/index.m3u8
