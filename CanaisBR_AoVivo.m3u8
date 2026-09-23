@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Amazônica Cruzeiro Acre H.265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Cruzeiro do Sul H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168962.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Amazonica RO H.265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica RO H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168961.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Canais Abertos | Globo",Centro America HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Canais Abertos | Globo",TV Centro América HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168967.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Canais Abertos | Globo",EPTV Campinas FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/364
@@ -37,7 +37,7 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/369
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/728
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Canais Abertos | Globo",EPTV Sul de Minas SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131201.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Bahia VDC H.265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Sudoeste VDC H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168964.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Brasilia FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131151.ts
@@ -45,17 +45,17 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/131151.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/131164.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Brasilia SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131116.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo Integração Uberlândia FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberlândia FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/396
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo Integração Uberlândia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberlândia HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/395
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Joaçaba FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Canais Abertos | Globo",NSC TV Joaçaba FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/752
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Joaçaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Canais Abertos | Globo",NSC TV Joaçaba HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/753
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Juiz de Fora MG FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/750
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Juiz de Fora MG HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/751
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Minas FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131200.ts
@@ -69,11 +69,11 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/724
 http://tjtor8411.com:80/Osiel123/Felicidade321/131209.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Minas SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/488
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Mogi das Cruzes FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/754
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Mogi das Cruzes HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/755
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Montes Claros MG FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Canais Abertos | Globo",InterTV Grande Minas FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/744
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Nordeste FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72001.ts
@@ -89,39 +89,39 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72003.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/490
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo NOW
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168985.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Paraiba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Paraíba HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/718
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Presidente Prudente SP FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Fronteira Presidente Prudente FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/748
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Presidente Prudente SP HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Fronteira Presidente Prudente HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/749
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Recife HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76688
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Amazonas Ariquemes FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Ariquemes FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350084.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Amazonas Ariquemes HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Ariquemes HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350085.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Amazonas Macapa FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Macapá FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350081.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Amazonas Macapa HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Macapá HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350082.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Amazonas Macapa SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Macapá SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350083.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Bahia FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131213.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Bahia SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72024.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Oeste FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Oeste FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306610.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Oeste HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Oeste HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306611.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Oeste SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Oeste SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306612.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Santa Cruz FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Santa Cruz FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306782.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Santa Cruz HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Santa Cruz HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306783.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Rede Bahia TV Santa Cruz SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Santa Cruz SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306784.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo RJ FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72025.ts
@@ -137,7 +137,7 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/131182.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/491
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo RJ H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76673
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo São José do Rio Preto HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Canais Abertos | Globo",TV TEM São José do Rio Preto HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169021.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo SP FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72040.ts
@@ -149,105 +149,105 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/714
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/741
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo SP SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/492
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Alvorada do Sul FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Alvorada do Sul FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350078.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Alvorada do Sul HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Alvorada do Sul HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/350079.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Bahia FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Bahia FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/379
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Bahia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Bahia HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/380
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Bahia SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Bahia SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/565
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Brasilia FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Brasília FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/719
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Brasilia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Brasília HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/334
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Brasilia H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo Brasília H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/434
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Cabugi FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Canais Abertos | Globo",InterTV Cabugi FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Cabugi HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Canais Abertos | Globo",InterTV Cabugi HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/441
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Diario Mogi das Cruzes FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131100.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Diario Mogi das Cruzes HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/97596.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Diario Mogi das Cruzes SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/97597.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Diário Mogi das Cruzes HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Diário Mogi das Cruzes HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169033.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Fronteira Presidente Prudente FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Fronteira Presidente Prudente FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/97587.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Fronteira Presidente Prudente HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Fronteira Presidente Prudente HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/97588.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Fronteira Presidente Prudente SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Fronteira Presidente Prudente SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131177.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Grande Rio FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Grande Rio FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306767.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Grande Rio SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Grande Rio SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306769.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Guajará Mirim HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Canais Abertos | Globo",Rede Amazônica Guajará-Mirim HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169036.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Araxa FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Araxá FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131203.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Araxa HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Araxá HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131126.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Araxa SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Araxá SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131140.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Ituiutaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Ituiutaba HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306648.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Ituiutaba SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Ituiutaba SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306649.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Juiz de Fora FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72067.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Juiz de Fora HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72068.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Juiz de Fora SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131106.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberaba FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberaba FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133052.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberaba HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133053.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberaba SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberaba SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133054.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberlandia FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberlândia FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133051.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberlandia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberlândia HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/93598.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integracao Uberlandia SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberlândia SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/93599.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integração Araxá HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Araxá HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/409
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integração Ituiutaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Ituiutaba HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/411
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integração Juiz de Fora HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Juiz de Fora HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/410
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integração Uberaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberaba HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169042.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",Globo TV Integração Uberaba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Canais Abertos | Globo",TV Integração Uberaba HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/313
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Paraiba FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Paraíba FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306779.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Paraiba HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Paraíba HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306780.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Paraiba SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Paraíba SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306781.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Santa Cruz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Santa Cruz
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/352
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Sao Francisco FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV São Francisco FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306785.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Sao Francisco HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV São Francisco HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/306786.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Subaé FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Subaé FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133067.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Subaé HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Subaé HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/133068.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Sudoeste FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Sudoeste FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72092.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Sudoeste HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Sudoeste HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72093.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Globo TV Sudoeste SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Sudoeste SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72094.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Canais Abertos | Globo",InterTV Alto Litoral FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71982.ts
@@ -519,7 +519,7 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/131125.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/131133.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Canais Abertos | Globo",RPC TV Ponta Grossa HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72037.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",Tapajós PA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Canais Abertos | Globo",TV Tapajós PA HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169022.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Canais Abertos | Globo",TV Anhanguera HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131166.ts
