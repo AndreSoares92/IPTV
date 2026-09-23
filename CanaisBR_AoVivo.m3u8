@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml.gz"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml.gz" x-tvg-url="https://epg.pw/xmltv/epg_BR.xml.gz"
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72040.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
@@ -1350,164 +1350,164 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/30125.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/276090.ts
 #EXTINF:-1 tvg-name="SporTV 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportv-4.png" group-title="Esportes | SporTV",SporTV 4 SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/276091.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/90640.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594844.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN 4K
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454346
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71911.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/598914.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494901
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71913.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/598916.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/454345
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN SD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71914.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN SD
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/523672
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN H265
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/523673
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/598913.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD ¹
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/598917.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 4K
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/71921.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/131131.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/450103
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD H.265
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81587.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/505857
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD ²
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn.png" group-title="Esportes | ESPN",ESPN HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/598918.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 SD
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/432374
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 H265
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/236
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13519.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD ¹
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30072.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD ²
+#EXTINF:-1 tvg-id="418722" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-2.png" group-title="Esportes | ESPN",ESPN 2 HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30071.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 4K
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 4K
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594843.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8788.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/772
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD*
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD*
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/131132.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD H.265
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81588.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8787.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/23
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 SD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71910.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 SD
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/476
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 H265
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/237
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13520.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD ¹
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30073.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD ²
+#EXTINF:-1 tvg-id="523329" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-3.png" group-title="Esportes | ESPN",ESPN 3 HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30074.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 4K
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 4K
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/497305
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71957.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8828.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/497306
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD [H265]
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/71958.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD H.265
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81578.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/20947.ts
-#EXTINF:0 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
+#EXTINF:0 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/494039
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 SD
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/503687
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/21647.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD ¹
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30083.ts
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD ²
+#EXTINF:-1 tvg-id="523357" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-4.png" group-title="Esportes | ESPN",ESPN 4 HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30082.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 4K
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/71954.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8826.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/773
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD H.265
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81594.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71955.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8827.ts
-#EXTINF:0 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
+#EXTINF:0 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/32
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 SD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71956.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 SD
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/484
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 [H265]
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/71953.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 H265
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/245
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/20946.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD ¹
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30081.ts
-#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD ²
+#EXTINF:-1 tvg-id="418724" tvg-name="ESPN 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-5.png" group-title="Esportes | ESPN",ESPN 5 HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30084.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 4K
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103505.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/131138.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/770
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD [H265]
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/71916.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8794.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71917.ts
-#EXTINF:0 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
+#EXTINF:0 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/26
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 SD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71918.ts
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 SD
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76661
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 H265
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/235
-#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD ¹
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/espn-6.png" group-title="Esportes | ESPN",ESPN 6 HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30077.ts
 #EXTINF:-1 tvg-name="Combate" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/combate.png" group-title="Esportes | Combate e UFC",Combate 4K
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/80559
