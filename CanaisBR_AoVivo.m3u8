@@ -3437,8 +3437,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72390.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/72391.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel-box-brasil.png" group-title="Variedades",Travel Box Brasil HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/136
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel-box-brasil.png" group-title="Variedades",Travel Box Brasil HD
-http://tjtor8411.com:80/Osiel123/Felicidade321/72392.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel-box-brasil.png" group-title="Variedades",Travel Food & Drinks HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07x/index.m3u8
@@ -3513,6 +3511,8 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/510
 http://tjtor8411.com:80/Osiel123/Felicidade321/72187.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/trace-brasil.png" group-title="Música",Trace Brasil HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/428888
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/trace-brasil.png" group-title="Música",Trace Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72392.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/trace-brasil.png" group-title="Música",Trace Brasil HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08l/index.m3u8
