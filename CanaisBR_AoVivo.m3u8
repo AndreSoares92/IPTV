@@ -2171,13 +2171,13 @@ http://45.185.11.126:8000/play/a06o/index.m3u8
 http://tjtor8411.com:80/Osiel123/Felicidade321/72337.ts
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/studio-universal.png" group-title="Filmes e Séries",Studio Universal SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/547
-#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy FHD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/857
-#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy FHD H265
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy FHD H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/287
-#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy HD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/75
-#EXTINF:-1 tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy SD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/syfy.png" group-title="Filmes e Séries",Syfy SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/548
 #EXTINF:-1 tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tcm.png" group-title="Filmes e Séries",TCM FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/877
@@ -2288,16 +2288,16 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/585
 http://tjtor8411.com:80/Osiel123/Felicidade321/72422.ts
 #EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/universal-tv.png" group-title="Filmes e Séries",Universal TV HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/35257.ts
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network FHD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72338.ts
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network FHD [H265]
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/72339.ts
-#EXTINF:0 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
+#EXTINF:0 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72340.ts
-#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network SD
+#EXTINF:-1 tvg-id="568980" tvg-name="Syfy HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72341.ts
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/warner-channel.png" group-title="Filmes e Séries",Warner Channel 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/90236.ts
