@@ -1708,26 +1708,26 @@ http://45.185.11.126:8000/play/a077/index.m3u8
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76670
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-science.png" group-title="Discovery",Discovery Science H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/228
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71879.ts
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/821
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD [H265]
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/71880.ts
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/17
-#EXTINF:0 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD
+#EXTINF:0 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater SD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71882.ts
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater SD
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76671
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater H265
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/229
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD ¹
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/93904.ts
-#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD ²
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-theater.png" group-title="Discovery",Discovery Theater HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30153.ts
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-turbo.png" group-title="Discovery",Discovery Turbo FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71883.ts
@@ -1773,24 +1773,24 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76672
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/231
 #EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-world.png" group-title="Discovery",Discovery World HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30157.ts
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery 4K
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/90243.ts
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery FHD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72150.ts
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery FHD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/819
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72152.ts
-#EXTINF:0 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
+#EXTINF:0 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a089/index.m3u8
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/46
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery SD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72153.ts
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery SD
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/501
-#EXTINF:-1 tvg-name="Investigação Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery H265
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/investigacao-discovery.png" group-title="Discovery",Investigação Discovery H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/257
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/animal-planet.png" group-title="Documentários",Animal Planet FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/804
