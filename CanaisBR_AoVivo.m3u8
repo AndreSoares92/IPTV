@@ -2110,21 +2110,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/90651.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/24538.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logotipo_do_Telecine_Touch_%282021%29.svg/500px-Logotipo_do_Telecine_Touch_%282021%29.svg.png" group-title="Filmes e Séries | Telecine",Telecine Touch H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/294
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/841
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax FHD H265
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/221
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/9
-#EXTINF:0 group-title="Filmes e Séries | HBO & Max",Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax HD ²
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/35233.ts
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax HD ¹
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/35232.ts
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/460
 #EXTINF:-1 group-title="Filmes e Séries | HBO & Max",HBO 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/90247.ts
 #EXTINF:-1 group-title="Filmes e Séries | HBO & Max",HBO 4K
@@ -2451,8 +2436,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/140509.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594017.ts
 #EXTINF:-1 group-title="Filmes e Séries | HBO & Max",MAX 6 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/130197.ts
-#EXTINF:-1 group-title="Filmes e Séries | HBO & Max",Cinemax
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/13505.ts
 #EXTINF:0 group-title="Filmes e Séries | Geral",Universal Premiere HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08m/index.m3u8
@@ -2576,6 +2559,23 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/90712.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/457
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Canal SONY SD [LEG]
 http://tjtor8411.com:80/Osiel123/Felicidade321/90711.ts
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/841
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax FHD H265
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/221
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/9
+#EXTINF:0 group-title="Filmes e Séries | Geral",Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax HD ²
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/35233.ts
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax HD ¹
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/35232.ts
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax SD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/460
+#EXTINF:-1 group-title="Filmes e Séries | Geral",Cinemax
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/13505.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Curta 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103512.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Curta FHD
