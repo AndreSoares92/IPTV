@@ -2046,16 +2046,6 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/35238.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/35239.ts
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/megapix.png" group-title="Filmes e Séries",Megapix HD [LEG]
 http://tjtor8411.com:80/Osiel123/Felicidade321/131118.ts
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Network 4K
-http://tjtor8411.com:80/Osiel123/Felicidade321/90634.ts
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Network FHD
-http://tjtor8411.com:80/Osiel123/Felicidade321/72217.ts
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Network FHD [H265]
-http://tjtor8411.com:80/Osiel123/Felicidade321/72218.ts
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Network HD
-http://tjtor8411.com:80/Osiel123/Felicidade321/72219.ts
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Network SD
-http://tjtor8411.com:80/Osiel123/Felicidade321/72220.ts
 #EXTINF:-1 tvg-id="426151" tvg-name="Prime Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/prime-box-brazil.png" group-title="Filmes e Séries",Prime Box Brazil 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103476.ts
 #EXTINF:-1 tvg-id="426151" tvg-name="Prime Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/prime-box-brazil.png" group-title="Filmes e Séries",Prime Box Brazil FHD
@@ -3410,6 +3400,10 @@ http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/569
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/69027.ts
 #EXTINF:-1 tvg-name="TV Senado" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tv-senado.png" group-title="Notícias",TV Senado
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/572
+#EXTINF:-1 tvg-name="Paramount+" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-plus.png" group-title="Paramount+",Paramount+ FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72217.ts
+#EXTINF:-1 tvg-name="Paramount+" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-plus.png" group-title="Paramount+",Paramount+ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72219.ts
 #EXTINF:-1 tvg-name="Paramount+ 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-plus.png" group-title="Paramount+",Paramount+ 1 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103524.ts
 #EXTINF:-1 tvg-name="Paramount+ 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-plus.png" group-title="Paramount+",Paramount+ 1 FHD
