@@ -3429,13 +3429,13 @@ http://45.185.11.126:8000/play/a0aa/index.m3u8
 http://tjtor8411.com:80/Osiel123/Felicidade321/72374.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/558
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brasil FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/884
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brasil FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72390.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brasil FHD [H265]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/72391.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brasil HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/136
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel-food-and-drinks.png" group-title="Variedades",Travel Food & Drinks HD
 #EXTVLCOPT:network-caching=1000
