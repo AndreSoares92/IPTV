@@ -3300,23 +3300,23 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/295478.ts
 http://45.185.11.126:8000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnbc-brasil.png" group-title="Notícias",CNBC Brasil SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/295479.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8711.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/306
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD H.265
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81597.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8712.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/102
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil SD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71840.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil SD
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/588
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD ¹
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30166.ts
-#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD ²
+#EXTINF:-1 tvg-id="568988" tvg-name="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil.png" group-title="Notícias",CNN Brasil HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30167.ts
 #EXTINF:-1 tvg-name="CNN Brasil Money" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil-money.png" group-title="Notícias",CNN Brasil Money FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/295482.ts
@@ -3327,7 +3327,7 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/295483.ts
 http://45.185.11.126:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil Money" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-brasil-money.png" group-title="Notícias",CNN Brasil Money SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/295484.ts
-#EXTINF:0 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-international.png" group-title="Notícias",CNN International HD
+#EXTINF:0 tvg-id="523278" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cnn-international.png" group-title="Notícias",CNN International HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/france-24.png" group-title="Notícias",France 24 FHD
