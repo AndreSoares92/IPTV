@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml" x-tvg-url="https://epg.pw/xmltv/epg_BR.xml" tvg-url="https://epg.pw/xmltv/epg_BR.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml.gz" x-tvg-url="https://epg.pw/xmltv/epg_BR.xml.gz"
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72040.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
