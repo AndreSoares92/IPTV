@@ -2755,7 +2755,7 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72422.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/72338.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/72339.ts
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/usa-network.png" group-title="Filmes e Séries",USA Network HD
