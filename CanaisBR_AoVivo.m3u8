@@ -3260,26 +3260,26 @@ http://45.185.11.126:8000/play/a08l/index.m3u8
 http://tjtor8411.com:80/Osiel123/Felicidade321/103453.ts
 #EXTINF:-1 tvg-name="Trace Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/trace-brazuca.png" group-title="Música",Trace Brazuca FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72386.ts
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/108367.ts
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/866
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD H.265
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81596.ts
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD H265
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News FHD H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/214
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71791.ts
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/11769.ts
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/103
-#EXTINF:0 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
+#EXTINF:0 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News SD
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/451
-#EXTINF:-1 tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD ²
+#EXTINF:-1 tvg-id="523314" tvg-name="Band News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandnews.png" group-title="Notícias",Band News HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30171.ts
 #EXTINF:0 tvg-name="BM&C News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bmc-news.png" group-title="Notícias",BM&C News HD
 #EXTVLCOPT:network-caching=1000
@@ -3334,45 +3334,45 @@ http://45.185.11.126:8000/play/a0ap/index.m3u8
 http://tjtor8411.com:80/Osiel123/Felicidade321/104906.ts
 #EXTINF:-1 tvg-id="417386" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/france-24.png" group-title="Notícias",France 24 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104907.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8853.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/853
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD [H265]
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/71998.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD H.265
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81598.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8854.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/35
-#EXTINF:0 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
+#EXTINF:0 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews SD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/131112.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews SD
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/489
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13523.ts
-#EXTINF:-1 tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD ²
+#EXTINF:-1 tvg-id="569014" tvg-name="GloboNews" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globonews.png" group-title="Notícias",GloboNews HD ²
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30169.ts
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/108191.ts
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD H265
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD H265
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76659
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/209
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/107918.ts
-#EXTINF:0 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
+#EXTINF:0 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News SD
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/76660
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD ¹
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News FHD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/167984.ts
-#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD ¹
+#EXTINF:-1 tvg-id="417187" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/jovem-pan-news.png" group-title="Notícias",Jovem Pan News HD ¹
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/167985.ts
 #EXTINF:-1 tvg-id="523352" tvg-name="Record News" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/record-news.png" group-title="Notícias",Record News 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/178523.ts
@@ -3586,11 +3586,11 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169318.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169320.ts
 #EXTINF:-1 tvg-name="Leo TV Gold" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/leo-tv-gold.png" group-title="Adultos (+18)",Leo TV Gold
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169322.ts
-#EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/playboy-tv.png" group-title="Adultos (+18)",Playboy TV
+#EXTINF:-1 tvg-id="426100" tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/playboy-tv.png" group-title="Adultos (+18)",Playboy TV
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/9446.ts
 #EXTINF:-1 tvg-name="Premium 16" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/adultos-xxx.png" group-title="Adultos (+18)",Premium 16
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169325.ts
-#EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sexy-hot.png" group-title="Adultos (+18)",Sexy Hot
+#EXTINF:-1 tvg-id="426158" tvg-name="Sexy Hot" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sexy-hot.png" group-title="Adultos (+18)",Sexy Hot
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1134352.ts
-#EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/venus.png" group-title="Adultos (+18)",Venus
+#EXTINF:-1 tvg-id="426016" tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/venus.png" group-title="Adultos (+18)",Venus
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/9447.ts
