@@ -2331,9 +2331,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72218.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/72219.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-network.png" group-title="Filmes e Séries",Paramount Channel SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72220.ts
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/universal-tv.png" group-title="Filmes e Séries",Universal Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/a-and-e.png" group-title="Filmes e Séries",A&E FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/23156.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/a-and-e.png" group-title="Filmes e Séries",A&E FHD
@@ -2727,6 +2724,9 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72384.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/560
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tnt-series.png" group-title="Filmes e Séries",TNT Series SD [LEG]
 http://tjtor8411.com:80/Osiel123/Felicidade321/90669.ts
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/universal-premiere.png" group-title="Filmes e Séries",Universal Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08m/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/universal-reality.png" group-title="Filmes e Séries",Universal Reality HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08c/index.m3u8
