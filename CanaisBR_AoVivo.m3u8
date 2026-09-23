@@ -2493,14 +2493,20 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/104913.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/104911.ts
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Eurochannel SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104912.ts
-#EXTINF:-1 group-title="Filmes e Séries | Geral",Film&Arts 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/178518.ts
-#EXTINF:-1 group-title="Filmes e Séries | Geral",Film&Arts FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104914.ts
-#EXTINF:-1 group-title="Filmes e Séries | Geral",Film&Arts FHD [H265]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/104920.ts
-#EXTINF:-1 group-title="Filmes e Séries | Geral",Film&Arts HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104915.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts FHD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/855
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts HD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/125
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film&Arts SD
+http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/478
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/megapix-br.png" group-title="Filmes e Séries | Geral",Megapix 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/131104.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/megapix-br.png" group-title="Filmes e Séries | Geral",Megapix 4K
@@ -2828,12 +2834,6 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72434.ts
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/581
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/warner-channel-br.png" group-title="Filmes e Séries | Geral",Warner Channel SD [LEG]
 http://tjtor8411.com:80/Osiel123/Felicidade321/90648.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film & Arts FHD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/855
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film & Arts HD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/125
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/film-and-arts-lam.png" group-title="Filmes e Séries | Geral",Film & Arts SD
-http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/478
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Runtime Ação
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553660
 #EXTINF:-1 group-title="Filmes e Séries | Geral",Runtime Brasil
