@@ -3592,9 +3592,6 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169320.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169322.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/playboy-tv.png" group-title="Adultos (+18)",Playboy TV FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/9446.ts
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/playboy-tv.png" group-title="Adultos (+18)",Playboy TV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sexy-hot.png" group-title="Adultos (+18)",Sexy Hot
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1134352.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/venus.png" group-title="Adultos (+18)",Venus FHD
