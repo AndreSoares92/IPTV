@@ -1996,357 +1996,199 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/30144.ts
 #EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/telecine-touch.png" group-title="Telecine",Telecine Touch SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72369.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 4K
-http://149.102.252.201:80/171350/B89tAq/103531.ts
-#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103531.ts
-#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 FHD
-http://149.102.252.201:80/171350/B89tAq/71777.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71777.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/67512.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71778.ts
-#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71778.ts
-#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 HD
-http://149.102.252.201:80/171350/B89tAq/71779.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71779.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/67511.ts
 #EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 SD
-http://149.102.252.201:80/171350/B89tAq/71780.ts
-#EXTINF:-1 tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/arte-1.png" group-title="Variedades",Arte 1 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71780.ts
-#EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",DOG TV FHD
-http://149.102.252.201:80/171350/B89tAq/76922.ts
-#EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",DOG TV FHD
+#EXTINF:-1 tvg-name="Canal Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Canal Off FHD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72209.ts
+#EXTINF:-1 tvg-name="Canal Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Canal Off FHD [H265]
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72210.ts
+#EXTINF:-1 tvg-name="Canal Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Canal Off HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72211.ts
+#EXTINF:-1 tvg-name="Canal Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Canal Off SD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72212.ts
+#EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/76922.ts
-#EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",DOG TV FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/104909.ts
-#EXTINF:-1 tvg-name="DOG TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",DOG TV FHD [H265]
+#EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/104909.ts
-#EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV HD
-http://149.102.252.201:80/171350/B89tAq/76923.ts
 #EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/76923.ts
 #EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV SD
-http://149.102.252.201:80/171350/B89tAq/104908.ts
-#EXTINF:-1 tvg-name="Dog TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/dog-tv.png" group-title="Variedades",Dog TV SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/104908.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! 4K
-http://149.102.252.201:80/171350/B89tAq/103506.ts
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103506.ts
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! FHD
-http://149.102.252.201:80/171350/B89tAq/71900.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71900.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8782.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71901.ts
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71901.ts
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! HD
-http://149.102.252.201:80/171350/B89tAq/71902.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71902.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8783.ts
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! SD
-http://149.102.252.201:80/171350/B89tAq/71903.ts
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/e-entertainment.png" group-title="Variedades",E! SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71903.ts
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV SD
-http://149.102.252.201:80/171350/B89tAq/71927.ts
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV 4K
+http://332nr7hbfu.xyz:80/999913/S3CvUB/103503.ts
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV FHD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71924.ts
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV FHD [H265]
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71925.ts
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/71926.ts
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",Fashion TV SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71927.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV 4K
-http://149.102.252.201:80/171350/B89tAq/103503.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/103503.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV FHD
-http://149.102.252.201:80/171350/B89tAq/71924.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV FHD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71924.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71925.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV FHD [H265]
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71925.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV HD
-http://149.102.252.201:80/171350/B89tAq/71926.ts
-#EXTINF:-1 tvg-name="FashionTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fashion-tv.png" group-title="Variedades",FashionTV HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71926.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV 4K
-http://149.102.252.201:80/171350/B89tAq/103502.ts
 #EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103502.ts
 #EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV FHD
-http://149.102.252.201:80/171350/B89tAq/71928.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71928.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71929.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV FHD [H265]
-http://332nr7hbfu.xyz:80/999913/S3CvUB/71929.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV HD
-http://149.102.252.201:80/171350/B89tAq/71930.ts
 #EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71930.ts
 #EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV SD
-http://149.102.252.201:80/171350/B89tAq/71931.ts
-#EXTINF:-1 tvg-name="Fish TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/fish-tv.png" group-title="Variedades",Fish TV SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71931.ts
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network 4K
-http://149.102.252.201:80/171350/B89tAq/103501.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103501.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13522.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network FHD
-http://149.102.252.201:80/171350/B89tAq/71932.ts
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71932.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8811.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71933.ts
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71933.ts
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network HD
-http://149.102.252.201:80/171350/B89tAq/71934.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71934.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8810.ts
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network SD
-http://149.102.252.201:80/171350/B89tAq/71935.ts
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/food-network.png" group-title="Variedades",Food Network SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71935.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT 4K
-http://149.102.252.201:80/171350/B89tAq/90638.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90638.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13527.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD
-http://149.102.252.201:80/171350/B89tAq/72102.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72102.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72103.ts
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8891.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72103.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/107984.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
-http://149.102.252.201:80/171350/B89tAq/72104.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72104.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/66902.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8890.ts
-#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT SD
-http://149.102.252.201:80/171350/B89tAq/131136.ts
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/66901.ts
+#EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/66902.ts
 #EXTINF:-1 tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/gnt.png" group-title="Variedades",GNT SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131136.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV 4K
-http://149.102.252.201:80/171350/B89tAq/103493.ts
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103493.ts
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD
-http://149.102.252.201:80/171350/B89tAq/72142.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72142.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/304506.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72143.ts
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72143.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/304507.ts
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV HD
-http://149.102.252.201:80/171350/B89tAq/72144.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72144.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/304508.ts
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV SD
-http://149.102.252.201:80/171350/B89tAq/72145.ts
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hgtv.png" group-title="Variedades",HGTV SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72145.ts
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime 4K
-http://149.102.252.201:80/171350/B89tAq/103492.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103492.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13538.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime FHD
-http://149.102.252.201:80/171350/B89tAq/72154.ts
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72154.ts
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72155.ts
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8943.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72155.ts
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime HD
-http://149.102.252.201:80/171350/B89tAq/72156.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72156.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8944.ts
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime SD
-http://149.102.252.201:80/171350/B89tAq/72157.ts
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/lifetime.png" group-title="Variedades",Lifetime SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72157.ts
-#EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket 4K
-http://149.102.252.201:80/171350/B89tAq/164026.ts
 #EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/164026.ts
 #EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket FHD
-http://149.102.252.201:80/171350/B89tAq/164030.ts
-#EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/164030.ts
-#EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/164027.ts
 #EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/164027.ts
 #EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket HD
-http://149.102.252.201:80/171350/B89tAq/164029.ts
-#EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/164029.ts
 #EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket SD
-http://149.102.252.201:80/171350/B89tAq/164028.ts
-#EXTINF:-1 tvg-name="Markket" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/markket.png" group-title="Variedades",Markket SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/164028.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem 4K
-http://149.102.252.201:80/171350/B89tAq/103488.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem 4K
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103488.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD
-http://149.102.252.201:80/171350/B89tAq/72162.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72162.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8883.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72163.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD [H265]
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72163.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem HD
-http://149.102.252.201:80/171350/B89tAq/72164.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem HD
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72164.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem HD
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/92649.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem SD
-http://149.102.252.201:80/171350/B89tAq/72165.ts
-#EXTINF:-1 tvg-name="Mais Globosat" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem SD
+#EXTINF:-1 tvg-name="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/modo-viagem.png" group-title="Variedades",Modo Viagem SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72165.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off 4K
-http://149.102.252.201:80/171350/B89tAq/90240.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/90240.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/8996.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off FHD
-http://149.102.252.201:80/171350/B89tAq/72209.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off FHD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72209.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72210.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off FHD [H265]
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72210.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off HD
-http://149.102.252.201:80/171350/B89tAq/72211.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72211.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off SD
-http://149.102.252.201:80/171350/B89tAq/72212.ts
-#EXTINF:-1 tvg-name="Off" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/canal-off.png" group-title="Variedades",Off SD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72212.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte 4K
-http://149.102.252.201:80/171350/B89tAq/112013.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/112013.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte FHD
-http://149.102.252.201:80/171350/B89tAq/112017.ts
 #EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/112017.ts
 #EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/112014.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/112014.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte HD
-http://149.102.252.201:80/171350/B89tAq/112016.ts
 #EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/112016.ts
 #EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte SD
-http://149.102.252.201:80/171350/B89tAq/112015.ts
-#EXTINF:-1 tvg-name="Sabor & Arte" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sabor-e-arte.png" group-title="Variedades",Sabor & Arte SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/112015.ts
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC 4K
-http://149.102.252.201:80/171350/B89tAq/103465.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103465.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC FHD
-http://149.102.252.201:80/171350/B89tAq/72371.ts
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72371.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72372.ts
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72372.ts
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC HD
-http://149.102.252.201:80/171350/B89tAq/72373.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72373.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8754.ts
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC SD
-http://149.102.252.201:80/171350/B89tAq/72374.ts
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/tlc.png" group-title="Variedades",TLC SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72374.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel 4K
-http://149.102.252.201:80/171350/B89tAq/103452.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/103452.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD
-http://149.102.252.201:80/171350/B89tAq/72390.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD
+#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brazil FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72390.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72391.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel FHD [H265]
+#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brazil FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72391.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel SD
-http://149.102.252.201:80/171350/B89tAq/72393.ts
-#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel SD
+#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brazil HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72392.ts
+#EXTINF:-1 tvg-name="Travel Box Brazil" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/travel.png" group-title="Variedades",Travel Box Brazil SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72393.ts
 #EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo 4K
-http://149.102.252.201:80/171350/B89tAq/103449.ts
-#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103449.ts
-#EXTINF:-1 tvg-name="WooHoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",WooHoo FHD
-http://149.102.252.201:80/171350/B89tAq/72435.ts
-#EXTINF:-1 tvg-name="WooHoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",WooHoo FHD
+#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72435.ts
-#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/72436.ts
 #EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72436.ts
 #EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/125448.ts
 #EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo HD
-http://149.102.252.201:80/171350/B89tAq/72437.ts
-#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72437.ts
-#EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo SD
-http://149.102.252.201:80/171350/B89tAq/72438.ts
 #EXTINF:-1 tvg-name="Woohoo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/woohoo.png" group-title="Variedades",Woohoo SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72438.ts
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/cartoon-network.png" group-title="Infantis",Cartoon Network 4K
