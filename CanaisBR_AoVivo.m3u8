@@ -4885,65 +4885,33 @@ http://332nr7hbfu.xyz:80/999913/S3CvUB/103521.ts
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72991.ts
 #EXTINF:-1 tvg-name="Paramount+ 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/paramount-plus.png" group-title="Paramount+",Paramount+ 4 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72992.ts
-#EXTINF:-1 tvg-name="Disney + 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 1 HD
-http://149.102.252.201:80/171350/B89tAq/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 1 HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/128347.ts
-#EXTINF:-1 tvg-name="Disney + 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 1 SD
-http://149.102.252.201:80/171350/B89tAq/142033.ts
-#EXTINF:-1 tvg-name="Disney + 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 1 SD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142033.ts
-#EXTINF:-1 tvg-name="Disney + 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 2 FHD
-http://149.102.252.201:80/171350/B89tAq/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 2 FHD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142034.ts
-#EXTINF:-1 tvg-name="Disney + 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 2 HD
-http://149.102.252.201:80/171350/B89tAq/129345.ts
-#EXTINF:-1 tvg-name="Disney + 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 2 HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/129345.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 FHD
-http://149.102.252.201:80/171350/B89tAq/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 FHD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142036.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 HD
-http://149.102.252.201:80/171350/B89tAq/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/129346.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 SD
-http://149.102.252.201:80/171350/B89tAq/142037.ts
-#EXTINF:-1 tvg-name="Disney + 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 3 SD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142037.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 FHD
-http://149.102.252.201:80/171350/B89tAq/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 FHD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142038.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 HD
-http://149.102.252.201:80/171350/B89tAq/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 HD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/129347.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 SD
-http://149.102.252.201:80/171350/B89tAq/142039.ts
-#EXTINF:-1 tvg-name="Disney + 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney + 4 SD
-http://332nr7hbfu.xyz:80/999913/S3CvUB/142039.ts
-#EXTINF:-1 tvg-name="Disney+ 01" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 01 FHD
-http://149.102.252.201:80/171350/B89tAq/142032.ts
-#EXTINF:-1 tvg-name="Disney+ 01" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 01 FHD
+#EXTINF:-1 tvg-name="Disney+ 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 1 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/142032.ts
-#EXTINF:-1 tvg-name="Disney+ 01" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 01 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169095.ts
-#EXTINF:-1 tvg-name="Disney+ 02" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 02 SD
-http://149.102.252.201:80/171350/B89tAq/142035.ts
-#EXTINF:-1 tvg-name="Disney+ 02" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 02 SD
+#EXTINF:-1 tvg-name="Disney+ 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 1 HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/128347.ts
+#EXTINF:-1 tvg-name="Disney+ 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 1 SD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142033.ts
+#EXTINF:-1 tvg-name="Disney+ 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 2 FHD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142034.ts
+#EXTINF:-1 tvg-name="Disney+ 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 2 HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/129345.ts
+#EXTINF:-1 tvg-name="Disney+ 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 2 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/142035.ts
-#EXTINF:-1 tvg-name="Disney+ 04" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 04 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169098.ts
-#EXTINF:-1 tvg-name="Disney+ 06" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 06 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169100.ts
-#EXTINF:-1 tvg-name="Disney+ 07" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 07 HD
+#EXTINF:-1 tvg-name="Disney+ 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 3 FHD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142036.ts
+#EXTINF:-1 tvg-name="Disney+ 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 3 HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/129346.ts
+#EXTINF:-1 tvg-name="Disney+ 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 3 SD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142037.ts
+#EXTINF:-1 tvg-name="Disney+ 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 4 FHD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142038.ts
+#EXTINF:-1 tvg-name="Disney+ 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 4 HD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/129347.ts
+#EXTINF:-1 tvg-name="Disney+ 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 4 SD
+http://332nr7hbfu.xyz:80/999913/S3CvUB/142039.ts
+#EXTINF:-1 tvg-name="Disney+ 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 5 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169101.ts
-#EXTINF:-1 tvg-name="Disney+ 08" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 08 HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169102.ts
-#EXTINF:-1 tvg-name="Disney+ 10" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 10 HD
+#EXTINF:-1 tvg-name="Disney+ 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/disney-plus.png" group-title="Disney+",Disney+ 6 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169104.ts
 #EXTINF:-1 tvg-name="Viva" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globoplay-novelas.png" group-title="Globoplay",Globoplay Novelas 4K
 http://149.102.252.201:80/171350/B89tAq/103450.ts
