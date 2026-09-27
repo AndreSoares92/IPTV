@@ -1177,212 +1177,104 @@ http://332nr7hbfu.xyz:80/999913/S3CvUB/184048.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/2403506.ts
 #EXTINF:-1 tvg-name="UFC Fight Pass" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/ufc-fight-pass.png" group-title="Esportes | Combate e UFC",UFC Fight Pass 03
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/2403507.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports 4K
-http://149.102.252.201:80/171350/B89tAq/103525.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/103525.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD
-http://149.102.252.201:80/171350/B89tAq/71801.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71801.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8661.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/71802.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71802.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/81585.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
-http://149.102.252.201:80/171350/B89tAq/71803.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71803.ts
+#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/8662.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/26724.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/30064.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports HD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/8662.ts
-#EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports SD
-http://149.102.252.201:80/171350/B89tAq/71804.ts
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/bandsports.png" group-title="Esportes | Outros",Band Sports SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71804.ts
 #EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV FHD
-http://149.102.252.201:80/171350/B89tAq/71947.ts
-#EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71947.ts
-#EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV HD
-http://149.102.252.201:80/171350/B89tAq/71949.ts
 #EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71949.ts
 #EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV SD
-http://149.102.252.201:80/171350/B89tAq/71950.ts
-#EXTINF:-1 tvg-name="Formula 1 TV" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/formula-1-tv.png" group-title="Esportes | Outros",Formula 1 TV SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71950.ts
-#EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 FHD
-http://149.102.252.201:80/171350/B89tAq/140516.ts
 #EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140516.ts
 #EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 HD
-http://149.102.252.201:80/171350/B89tAq/140517.ts
-#EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140517.ts
-#EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 SD
-http://149.102.252.201:80/171350/B89tAq/140518.ts
 #EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 1 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140518.ts
 #EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 FHD
-http://149.102.252.201:80/171350/B89tAq/140519.ts
-#EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140519.ts
-#EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 HD
-http://149.102.252.201:80/171350/B89tAq/140520.ts
 #EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140520.ts
 #EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 SD
-http://149.102.252.201:80/171350/B89tAq/140521.ts
-#EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 2 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140521.ts
-#EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 FHD
-http://149.102.252.201:80/171350/B89tAq/140522.ts
 #EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140522.ts
 #EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 HD
-http://149.102.252.201:80/171350/B89tAq/140523.ts
-#EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140523.ts
-#EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 SD
-http://149.102.252.201:80/171350/B89tAq/140524.ts
 #EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 3 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140524.ts
 #EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 FHD
-http://149.102.252.201:80/171350/B89tAq/140525.ts
-#EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140525.ts
-#EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 HD
-http://149.102.252.201:80/171350/B89tAq/140526.ts
 #EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140526.ts
 #EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 SD
-http://149.102.252.201:80/171350/B89tAq/140527.ts
-#EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 4 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/140527.ts
-#EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 FHD
-http://149.102.252.201:80/171350/B89tAq/141487.ts
 #EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141487.ts
 #EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 HD
-http://149.102.252.201:80/171350/B89tAq/141488.ts
-#EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141488.ts
-#EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 SD
-http://149.102.252.201:80/171350/B89tAq/141489.ts
 #EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 5 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141489.ts
 #EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 FHD
-http://149.102.252.201:80/171350/B89tAq/141490.ts
-#EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141490.ts
 #EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 HD
-http://149.102.252.201:80/171350/B89tAq/141491.ts
-#EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141491.ts
-#EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 SD
-http://149.102.252.201:80/171350/B89tAq/141492.ts
 #EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/nba-league-pass.png" group-title="Esportes | Outros",NBA League Pass 6 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/141492.ts
 #EXTINF:-1 tvg-name="SportyNet" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1165167.ts
-#EXTINF:-1 tvg-name="SportyNet" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/184587.ts
-#EXTINF:-1 tvg-name="SportyNet" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet FHD [H265]
-http://332nr7hbfu.xyz:80/999913/S3CvUB/184587.ts
-#EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 4K
-http://149.102.252.201:80/171350/B89tAq/184572.ts
 #EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184572.ts
 #EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 FHD
-http://149.102.252.201:80/171350/B89tAq/184569.ts
-#EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184569.ts
-#EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/184573.ts
 #EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184573.ts
 #EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 HD
-http://149.102.252.201:80/171350/B89tAq/184570.ts
-#EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184570.ts
 #EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 SD
-http://149.102.252.201:80/171350/B89tAq/184571.ts
-#EXTINF:-1 tvg-name="SportyNet 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 1 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184571.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 4K
-http://149.102.252.201:80/171350/B89tAq/184577.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/184577.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 FHD
-http://149.102.252.201:80/171350/B89tAq/184574.ts
 #EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184574.ts
 #EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/184578.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184578.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 HD
-http://149.102.252.201:80/171350/B89tAq/184575.ts
 #EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184575.ts
 #EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 SD
-http://149.102.252.201:80/171350/B89tAq/184576.ts
-#EXTINF:-1 tvg-name="SportyNet 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 2 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184576.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 4K
-http://149.102.252.201:80/171350/B89tAq/184582.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 4K
-http://332nr7hbfu.xyz:80/999913/S3CvUB/184582.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 FHD
-http://149.102.252.201:80/171350/B89tAq/184579.ts
 #EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184579.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 FHD [H265]
-http://149.102.252.201:80/171350/B89tAq/184583.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 FHD [H265]
-http://332nr7hbfu.xyz:80/999913/S3CvUB/184583.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 HD
-http://149.102.252.201:80/171350/B89tAq/184580.ts
 #EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184580.ts
 #EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 SD
-http://149.102.252.201:80/171350/B89tAq/184581.ts
-#EXTINF:-1 tvg-name="SportyNet 3" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 3 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184581.ts
-#EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 FHD
-http://149.102.252.201:80/171350/B89tAq/184584.ts
 #EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184584.ts
 #EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 HD
-http://149.102.252.201:80/171350/B89tAq/184585.ts
-#EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184585.ts
-#EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 SD
-http://149.102.252.201:80/171350/B89tAq/184586.ts
 #EXTINF:-1 tvg-name="SportyNet 4" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sportynet.png" group-title="Esportes | Outros",SportyNet 4 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/184586.ts
 #EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports FHD
-http://149.102.252.201:80/171350/B89tAq/340449.ts
-#EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/340449.ts
-#EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports FHD
-http://corruptx.org:80/3llohwk4g9/kwf099q30o/631631.ts
-#EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports HD
-http://149.102.252.201:80/171350/B89tAq/340450.ts
 #EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/340450.ts
 #EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/631630.ts
-#EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports SD
-http://149.102.252.201:80/171350/B89tAq/340451.ts
 #EXTINF:-1 tvg-name="Xsports" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/x-sports.png" group-title="Esportes | Outros",Xsports SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/340451.ts
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/discovery-channel.png" group-title="Discovery",Discovery Channel 4K
