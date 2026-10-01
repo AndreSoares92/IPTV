@@ -1,642 +1,1282 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72040.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72040.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
+http://149.102.252.201:80/171350/B89tAq/72040.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131215.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/131215.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/131215.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131212.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131212.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP HD
+http://149.102.252.201:80/171350/B89tAq/131212.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72042.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72042.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP SD
+http://149.102.252.201:80/171350/B89tAq/72042.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72025.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72025.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ FHD
+http://149.102.252.201:80/171350/B89tAq/72025.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131163.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131163.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ HD
+http://149.102.252.201:80/171350/B89tAq/131163.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131182.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131182.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ SD
+http://149.102.252.201:80/171350/B89tAq/131182.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131200.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131200.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas FHD
+http://149.102.252.201:80/171350/B89tAq/131200.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131159.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131159.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas HD
+http://149.102.252.201:80/171350/B89tAq/131159.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131209.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131209.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas SD
+http://149.102.252.201:80/171350/B89tAq/131209.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131151.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131151.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia FHD
+http://149.102.252.201:80/171350/B89tAq/131151.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131164.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131164.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia HD
+http://149.102.252.201:80/171350/B89tAq/131164.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131116.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131116.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia SD
+http://149.102.252.201:80/171350/B89tAq/131116.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72001.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72001.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste FHD
+http://149.102.252.201:80/171350/B89tAq/72001.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131157.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131157.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste HD
+http://149.102.252.201:80/171350/B89tAq/131157.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72003.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72003.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste SD
+http://149.102.252.201:80/171350/B89tAq/72003.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168917.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP H.265
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168916.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo SP HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168918.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168920.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ H.265
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168919.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo RJ HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168921.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168936.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Minas HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168937.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168933.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Brasilia HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168934.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste FHD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168939.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo Nordeste HD
+http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168940.ts
 #EXTINF:-1 tvg-name="Globo Now" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo.png" group-title="Abertos | Globo",Globo NOW
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168985.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131150.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131150.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71977.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71977.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131210.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Campinas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131210.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131172.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131172.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131178.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131178.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirão Preto HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168973.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131202.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Ribeirao Preto SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131202.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131141.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131141.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131129.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131129.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72592.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sao Carlos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72592.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71979.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71979.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71980.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71980.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131201.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-eptv.png" group-title="Abertos | Globo",EPTV Sul de Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131201.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",Inter TV Cabugi SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131186.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",Inter TV Cabugi SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131186.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",Inter TV Serra Mar FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71994.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",Inter TV Serra Mar FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71994.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Alto Litoral FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71982.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Alto Litoral FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71982.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Alto Litoral HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71983.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Alto Litoral HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71983.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Cabugi FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71985.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Cabugi FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71985.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Cabugi HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71986.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Cabugi HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71986.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350087.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350087.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350088.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350088.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350089.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Costa Branca SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350089.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131143.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131143.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168981.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71989.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71989.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71990.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV dos Vales SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71990.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71991.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71991.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131115.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131115.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131114.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Grande Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131114.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Serra Mar HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71995.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Serra Mar HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71995.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Serra Mar SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71996.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-intertv.png" group-title="Abertos | Globo",InterTV Serra Mar SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71996.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC Centro Oeste FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168986.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72004.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72004.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168990.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72005.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72005.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168991.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131192.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Blumenau SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131192.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135432.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135432.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135433.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135433.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135434.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Centro Oeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135434.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131174.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131174.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72008.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72008.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131190.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Chapeco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131190.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135426.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135426.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135427.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135427.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135428.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Criciuma SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135428.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72010.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72010.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131183.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131183.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131144.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Florianopolis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131144.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91034.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91034.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131167.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131167.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91032.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-nsc.png" group-title="Abertos | Globo",NSC TV Joinville SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91032.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306749.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306749.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306750.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306750.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306752.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Bage SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306752.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131160.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131160.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72014.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72014.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131130.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Caxias do Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131130.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/218827.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/218827.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306686.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306686.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306687.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Cruz Alta SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306687.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306683.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306683.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306684.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306684.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306685.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Erechim SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306685.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133064.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133064.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133065.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133065.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133066.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Passo Fundo SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133066.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72617.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72617.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131121.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131121.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131207.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Pelotas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131207.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131102.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131102.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72017.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72017.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169003.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131198.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Porto Alegre SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131198.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306767.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306767.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306768.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306768.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306769.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Rio Grande SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306769.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306607.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306607.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306608.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306608.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306609.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Cruz do Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306609.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135423.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135423.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135424.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135424.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/135425.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Maria SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135425.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306680.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306680.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306681.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306681.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306682.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Santa Rosa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306682.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306677.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306677.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306678.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306678.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306679.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rbs.png" group-title="Abertos | Globo",RBS TV Uruguaiana SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306679.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonas Arquemes SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350086.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonas Arquemes SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350086.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133055.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133055.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133056.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133056.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133057.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Amapa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133057.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Ariquemes FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350084.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Ariquemes FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350084.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Ariquemes HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350085.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Ariquemes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350085.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131185.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131185.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93588.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93588.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93589.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Boa Vista SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93589.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Cruzeiro do Sul H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168962.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Guajará-Mirim HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169036.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350081.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350081.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350082.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350082.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350083.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica Macapá SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350083.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72019.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72019.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72020.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72020.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72021.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Manaus SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72021.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/108684.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/108684.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93592.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93592.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131184.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Porto Velho SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131184.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131148.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131148.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131162.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131162.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131111.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazonica Rio Branco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131111.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rede-amazonica.png" group-title="Abertos | Globo",Rede Amazônica RO H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168961.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133058.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133058.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133059.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133059.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169007.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133060.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Cascavel SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133060.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Guarapuava HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169012.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133061.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133061.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133062.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133062.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169013.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133063.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Londrina SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133063.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Maringá FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169014.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72028.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72028.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131170.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131170.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavaí HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169016.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131197.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Paranavai SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131197.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC Ponta Grossa HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169019.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131199.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131199.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72626.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72626.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131127.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Curitiba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131127.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131149.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131149.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72033.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72033.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131206.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Foz do Iguacu SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131206.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306674.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306674.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306675.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306675.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306676.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Guarapuava SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306676.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131101.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131101.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/96888.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/96888.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131125.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Maringa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131125.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131133.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131133.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72037.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72037.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131189.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-rpc.png" group-title="Abertos | Globo",RPC TV Ponta Grossa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131189.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350078.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350078.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350079.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350079.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350080.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-alvorada.png" group-title="Abertos | Globo",TV Alvorada do Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350080.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72043.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72043.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131166.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131166.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131124.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131124.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306751.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306751.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306753.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306753.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306754.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Anapolis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306754.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306653.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306653.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306654.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306654.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306655.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Itumbiara SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306655.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306755.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306755.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306756.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306756.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306757.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Luziania SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306757.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306758.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306758.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306759.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306759.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306760.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Palmas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306760.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306761.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306761.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306762.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306762.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306763.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-anhanguera.png" group-title="Abertos | Globo",TV Anhanguera Rio Verde SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306763.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/102554.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/102554.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169026.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/102555.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/102555.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131180.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-asa-branca.png" group-title="Abertos | Globo",TV Asa Branca SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131180.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131213.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131213.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131123.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131123.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72024.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-bahia.png" group-title="Abertos | Globo",TV Bahia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72024.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131146.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131146.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131110.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131110.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131179.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-cabo-branco.png" group-title="Abertos | Globo",TV Cabo Branco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131179.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72049.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72049.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72050.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72050.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro América HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168967.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72051.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72051.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306650.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306650.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306651.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306651.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306652.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Rondonopolis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306652.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306764.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306764.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306765.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306765.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306766.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-centro-america.png" group-title="Abertos | Globo",TV Centro America Sinop SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306766.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131105.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131105.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72053.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72053.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131196.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-clube.png" group-title="Abertos | Globo",TV Clube Teresina SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131196.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131100.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131100.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/97596.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97596.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169033.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/97597.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-diario.png" group-title="Abertos | Globo",TV Diário Mogi das Cruzes SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97597.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/97587.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97587.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/97588.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97588.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131177.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-fronteira.png" group-title="Abertos | Globo",TV Fronteira Presidente Prudente SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131177.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131158.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131158.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131214.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131214.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131142.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-alagoas.png" group-title="Abertos | Globo",TV Gazeta Alagoas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131142.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131099.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131099.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72059.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72059.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72060.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72060.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72061.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72061.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131154.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131154.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131175.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitoria SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131175.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-gazeta-es.png" group-title="Abertos | Globo",TV Gazeta Vitória ES FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168959.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131203.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131203.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131126.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131126.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131140.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Araxá SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131140.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integracao Ituiutaba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306647.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integracao Ituiutaba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306647.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Ituiutaba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306648.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Ituiutaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306648.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Ituiutaba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306649.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Ituiutaba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306649.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72067.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72067.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72068.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72068.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131106.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Juiz de Fora SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131106.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133052.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133052.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133053.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133053.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169042.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133054.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberaba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133054.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133051.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133051.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93598.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93598.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93599.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-integracao.png" group-title="Abertos | Globo",TV Integração Uberlândia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93599.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131152.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131152.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72071.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72071.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72072.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Belem SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72072.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306770.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306770.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306771.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306771.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306772.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Castanhal SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306772.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306773.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306773.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306774.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306774.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306775.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-liberal.png" group-title="Abertos | Globo",TV Liberal Maraba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306775.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133050.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133050.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93600.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93600.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93601.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Cocais SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93601.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306776.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306776.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306777.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306777.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306778.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Imperatriz SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306778.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131103.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131103.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72074.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72074.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131195.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-mirante.png" group-title="Abertos | Globo",TV Mirante Sao Luis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131195.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72076.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72076.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131169.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131169.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131122.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131122.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306615.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306615.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306645.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306645.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306646.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-morena.png" group-title="Abertos | Globo",TV Morena Ponta Pora SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306646.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306610.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306610.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306611.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306611.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306612.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-oeste.png" group-title="Abertos | Globo",TV Oeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306612.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306779.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306779.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306780.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306780.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306781.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-paraiba.png" group-title="Abertos | Globo",TV Paraíba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306781.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72079.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72079.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131128.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131128.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169091.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72082.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-rio-sul.png" group-title="Abertos | Globo",TV Rio Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72082.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306782.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306782.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306783.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306783.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306784.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-santa-cruz.png" group-title="Abertos | Globo",TV Santa Cruz SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306784.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV São Francisco FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306785.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV São Francisco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306785.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV São Francisco HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306786.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV São Francisco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306786.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV Sao Francisco SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/306787.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sao-francisco.png" group-title="Abertos | Globo",TV Sao Francisco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/306787.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131156.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131156.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131181.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131181.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131139.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sergipe.png" group-title="Abertos | Globo",TV Sergipe SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131139.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subaé FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133067.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subaé FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133067.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subaé HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133068.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subaé HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133068.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subae SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/133069.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-subae.png" group-title="Abertos | Globo",TV Subae SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133069.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72092.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72092.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72093.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72093.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72094.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72094.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-sudoeste.png" group-title="Abertos | Globo",TV Sudoeste VDC H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1168964.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91431.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91431.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91432.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91432.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131120.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Bauru SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131120.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91435.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91435.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91436.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91436.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131119.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Itapetininga SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131119.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131155.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131155.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91434.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91434.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM São José do Rio Preto HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169021.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131205.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sao Jose do Rio Preto SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131205.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131191.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131191.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/91439.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91439.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131194.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tem.png" group-title="Abertos | Globo",TV TEM Sorocaba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131194.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131135.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131135.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131165.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131165.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131109.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-tribuna.png" group-title="Abertos | Globo",TV Tribuna Santos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131109.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131211.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131211.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/144027.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/144027.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72624.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda S.j dos Campos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72624.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda SJC HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169082.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/100375.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/100375.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/93605.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93605.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131187.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Taubate SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131187.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-vanguarda.png" group-title="Abertos | Globo",TV Vanguarda Tte HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169083.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72080.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/72080.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131161.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131161.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72096.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72096.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131137.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131137.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350075.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350075.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350076.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350076.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/1169084.ts
 #EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/350077.ts
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/globo-tv-verdes-mares.png" group-title="Abertos | Globo",TV Verdes Mares Cariri SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/350077.ts
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sbt.png" group-title="Abertos | SBT",SBT FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/9082.ts
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/sbt.png" group-title="Abertos | SBT",SBT HD
