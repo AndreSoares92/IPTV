@@ -3213,16 +3213,24 @@ http://332nr7hbfu.xyz:80/999913/S3CvUB/90648.ts
 http://149.102.252.201:80/171350/B89tAq/90648.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90247.ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO 4K
+http://149.102.252.201:80/171350/B89tAq/90247.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72118.ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD
+http://149.102.252.201:80/171350/B89tAq/72118.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8902.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72119.ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72119.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94381.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72120.ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO HD
+http://149.102.252.201:80/171350/B89tAq/72120.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8903.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO HD
@@ -3231,20 +3239,30 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31862.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/31863.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72133.ts
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo.png" group-title="HBO",HBO SD
+http://149.102.252.201:80/171350/B89tAq/72133.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90246.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 4K
+http://149.102.252.201:80/171350/B89tAq/90246.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13529.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72110.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD
+http://149.102.252.201:80/171350/B89tAq/72110.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8897.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72111.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72111.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94382.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72112.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 HD
+http://149.102.252.201:80/171350/B89tAq/72112.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8898.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 HD
@@ -3253,16 +3271,26 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31859.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/93899.ts
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72113.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-2.png" group-title="HBO",HBO 2 SD
+http://149.102.252.201:80/171350/B89tAq/72113.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90637.ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family 4K
+http://149.102.252.201:80/171350/B89tAq/90637.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13530.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72114.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72114.ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD
+http://149.102.252.201:80/171350/B89tAq/72114.ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8901.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72115.ts
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72115.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94383.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-family.png" group-title="HBO",HBO Family HD
@@ -3275,16 +3303,22 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31860.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/31861.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103496.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi 4K
+http://149.102.252.201:80/171350/B89tAq/103496.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13531.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72121.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi FHD
+http://149.102.252.201:80/171350/B89tAq/72121.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8904.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94384.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72123.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi HD
+http://149.102.252.201:80/171350/B89tAq/72123.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8905.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi HD
@@ -3293,46 +3327,74 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31864.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/93900.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72124.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi SD
+http://149.102.252.201:80/171350/B89tAq/72124.ts
 #EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi SD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90693.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-mundi.png" group-title="HBO",HBO Mundi SD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90693.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90635.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus 4K
+http://149.102.252.201:80/171350/B89tAq/90635.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72125.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD
+http://149.102.252.201:80/171350/B89tAq/72125.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/24592.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72126.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72126.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94385.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72127.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD
+http://149.102.252.201:80/171350/B89tAq/72127.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/11771.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/31865.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72128.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus SD
+http://149.102.252.201:80/171350/B89tAq/72128.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90692.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus FHD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90692.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90691.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus HD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90691.ts
 #EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus SD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90690.ts
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-plus.png" group-title="HBO",HBO Plus SD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90690.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/103495.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop 4K
+http://149.102.252.201:80/171350/B89tAq/103495.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13533.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72129.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD
+http://149.102.252.201:80/171350/B89tAq/72129.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/24593.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72130.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72130.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94386.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72131.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD
+http://149.102.252.201:80/171350/B89tAq/72131.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8911.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD
@@ -3341,22 +3403,34 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31867.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/93901.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72132.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop SD
+http://149.102.252.201:80/171350/B89tAq/72132.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90688.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop HD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90688.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop SD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90687.ts
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-pop.png" group-title="HBO",HBO Pop SD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90687.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13534.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72134.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD
+http://149.102.252.201:80/171350/B89tAq/72134.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8912.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72135.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72135.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD H.265
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/94387.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72136.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature HD
+http://149.102.252.201:80/171350/B89tAq/72136.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8914.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature HD
@@ -3365,18 +3439,30 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/31868.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/31869.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72137.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature SD
+http://149.102.252.201:80/171350/B89tAq/72137.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90686.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature FHD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90686.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature SD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90684.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-signature.png" group-title="HBO",HBO Signature SD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90684.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme 4K
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90636.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme 4K
+http://149.102.252.201:80/171350/B89tAq/90636.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72138.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD
+http://149.102.252.201:80/171350/B89tAq/72138.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/13535.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD [H265]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72139.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD [H265]
+http://149.102.252.201:80/171350/B89tAq/72139.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme HD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72140.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme HD
@@ -3385,12 +3471,20 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/8916.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/31870.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme SD
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72141.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme SD
+http://149.102.252.201:80/171350/B89tAq/72141.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90683.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme FHD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90683.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme HD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90682.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme HD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90682.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme SD [LEG]
 http://332nr7hbfu.xyz:80/999913/S3CvUB/90681.ts
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-xtreme.png" group-title="HBO",HBO Xtreme SD [LEG]
+http://149.102.252.201:80/171350/B89tAq/90681.ts
 #EXTINF:-1 tvg-name="HBO Max 1" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-max.png" group-title="HBO Max",HBO Max 1 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594011.ts
 #EXTINF:-1 tvg-name="HBO Max 2" tvg-logo="https://raw.githubusercontent.com/AndreSoares92/IPTV/main/logos/hbo-max.png" group-title="HBO Max",HBO Max 2 HD
